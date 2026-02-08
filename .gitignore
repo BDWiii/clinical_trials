@@ -218,3 +218,5 @@ __pycache__/
 *.env
 *.env.test
 .DS_Store
+clinical_trials.git/
+.DS_Store
